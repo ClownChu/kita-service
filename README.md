@@ -1,3 +1,15 @@
+<div align="center">
+
+[![NPM Version](https://img.shields.io/npm/v/kita-service.svg)](https://www.npmjs.org/package/kita-service)
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/clownchu/kita-service) 
+[![Coverage Status](https://coveralls.io/repos/github/ClownChu/kita-service/badge.svg)](https://coveralls.io/github/ClownChu/kita-service)
+[![Install Size](https://packagephobia.now.sh/badge?p=kita-service)](https://packagephobia.com/result?p=kita-service)
+[![NPM Downloads](https://img.shields.io/npm/dm/kita-service.svg)](https://npm-stat.com/charts.html?package=kita-service)
+[![Gitter Chat](https://img.shields.io/gitter/room/clownchu/kita-service.svg)](https://gitter.im/clownchu/kita-service)
+[![Code Helpers](https://www.codetriage.com/clownchu/kita-service/badges/users.svg)](https://www.codetriage.com/clownchu/kita-service)
+
+</div>
+
 <h1 align="center">Kita Service</h1>
 <h3 align="center">Node.js service</h3>
 
@@ -9,12 +21,22 @@
 
 <hr>
 
+<h2 id="get-in-npm" align="center">Get in <a href="https://www.npmjs.com/package/kita-service" target="_blank">npm</a></h2>
+
+```bash
+npm i kita-service
+```
+
+<hr>
+
 <h2 id="todos" align="center">TODOs</h2>
 
 <h3 id="pending">Pending</h3>
 
 ```objc
-- [ ] TODOs in code // https://dev.azure.com/webvizo/Kita/_search?text=TODO%20&type=code&lp=code-Project&filters=ProjectFilters%7BKita%7DRepositoryFilters%7Bkita-lights%7D&pageSize=25
+- [ ] Add tests
+- [ ] Add coveralls status
+- [ ] TODOs in code // https://github.com/ClownChu/kita-service/search?q=TODO+%3A
 ```
 
 <p align="right"><sup>* Not in order of priority</sup></p>
@@ -22,8 +44,9 @@
 <h3 id="completed">Completed</h3>
 
 ```objc
-- [x] Publish in npm  
-- [x] Create base service repository
+- [x] Update README.md with badges and NPM information. // v0.0.2 - https://github.com/ClownChu/kita-webdriver/commits/0.0.2
+- [x] Publish in npm // v0.0.1 - https://github.com/ClownChu/kita-webdriver/commits/0.0.1
+- [x] Create base service repository // v0.0.1 - https://github.com/ClownChu/kita-webdriver/commits/0.0.1
 ```
 
 <hr>
